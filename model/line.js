@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 //1024officecenter
 //L14cBQkttn9m6BBK
 mongoose.connect(
-  "mongodb+srv://1024officecenter:L14cBQkttn9m6BBK@cluster0.nou8gsk.mongodb.net/duan?retryWrites=true&w=majority&appName=Cluster0",
+  "mongodb+srv://1024officecenter:L14cBQkttn9m6BBK@cluster0.nou8gsk.mongodb.net/duan",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
